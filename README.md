@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.dheerajsharma24.netlify.app](https://www.dheerajsharma24.netlify.app)
+- 👨‍💻 All of my projects are available at [https://dheerajsharma24.netlify.app/]
 
 - 📫 How to reach me **dsprofessional12@gmail.com**
 
