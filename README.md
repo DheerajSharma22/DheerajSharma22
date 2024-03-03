@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw29YEZ2Js34dtdzQqfiKC7V&ust=1709551813432000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi2ovf-14QDFQAAAAAdAAAAABAF">
+<img align="right" alt="coding" width="400px" src="https://images.app.goo.gl/eRBF7jARciQS8yhX9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajsharma22&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajsharma22" /> </p>
 
