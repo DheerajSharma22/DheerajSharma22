@@ -1,3 +1,4 @@
+![logo](https://github.com/DheerajSharma22/DheerajSharma22/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Dheeraj sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
